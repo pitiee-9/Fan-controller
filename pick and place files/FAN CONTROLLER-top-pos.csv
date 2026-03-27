@@ -1,0 +1,15 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0.47uF","CP_Axial_L10.0mm_D6.0mm_P15.00mm_Horizontal",83.080000,-120.580000,180.000000,top
+"C2","0.01uF","CP_Axial_L10.0mm_D6.0mm_P15.00mm_Horizontal",87.080000,-88.580000,0.000000,top
+"C3","1000uF, 25V","CP_Radial_D5.0mm_P2.00mm",105.580000,-103.580000,0.000000,top
+"D1","LED","LED_D3.0mm",91.040000,-109.580000,0.000000,top
+"D2","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",112.420000,-87.580000,0.000000,top
+"F1","Fuse_Small","Fuse_BelFuse_0ZRE0033FF_L11.4mm_W3.8mm",68.480000,-88.780000,0.000000,top
+"J1","Conn_01x02_Pin","PinHeader_1x02_P2.54mm_Horizontal",73.965000,-105.855000,180.000000,top
+"J2","Conn_01x02_Pin","PinHeader_1x02_P2.54mm_Horizontal",114.195000,-103.305000,0.000000,top
+"Q1","IRF540N","TO-220-3_Vertical",122.580000,-119.580000,90.000000,top
+"R1","R_US","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",81.580000,-85.960000,-90.000000,top
+"R2","1K","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",99.580000,-117.580000,180.000000,top
+"R3","10K","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",91.770000,-121.890000,0.000000,top
+"RV1","100K","Potentiometer_Vishay_T73XW_Horizontal",81.580000,-102.580000,0.000000,top
+"U1","NE555D_custom_IC_symbol","SOIC-8_3.9x4.9mm_P1.27mm",93.945000,-99.105000,90.000000,top
